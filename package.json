@@ -23,6 +23,8 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-stage-0": "^6.24.1",
     "css-loader": "^1.0.0",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.1.0",
     "style-loader": "^0.21.0",
     "webpack": "^1.12.13"
   }
